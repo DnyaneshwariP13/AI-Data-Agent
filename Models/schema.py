@@ -27,3 +27,6 @@ class JudgeSchema(BaseModel):
     comments: str= Field(..., description="Comments or feedback provided by the agent or judge  regarding the safety of the generated SQL query")
 
 
+
+class ETLAgentSchema(BaseModel):
+    messages: Annotated[list,add]= Field(..., description="List of messages to be processed by the ETL agent")

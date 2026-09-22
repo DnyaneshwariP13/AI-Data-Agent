@@ -364,5 +364,5 @@ if __name__=="__main__":
     print()
 
     print("=== FINAL ANSWER ===")
-    print(sql_analyst_response["final_answer"])            # ← the human-readable answer 
+    print(sql_analyst_response["final_answer"])            #the human-readable answer 
 
