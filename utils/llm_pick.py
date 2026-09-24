@@ -23,7 +23,7 @@ def pick_llm(level:str):
     elif level.lower()=="medium":
         #return ChatGoogleGenerativeAI(model="gemini-3.5-flash")
         return ChatGoogleGenerativeAI(model="gemini-3.5-flash-lite")
-    elif level.lower()=="hard":
+    elif level.lower()=="high":
         return ChatGoogleGenerativeAI(model="gemini-3.5-pro")
     else:
         raise ValueError(f"Unsupported level:{level}")
