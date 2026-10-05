@@ -298,23 +298,3 @@ This is a **learning/portfolio prototype**, not a production database automation
 
 ---
 
-## 👩‍💻 Author
-
-**Dnyaneshwari Pawale**: AI/ML Engineer | Generative AI | Agentic AI | Machine Learning | Data Engineering
-
-- GitHub: [DnyaneshwariP13](https://github.com/DnyaneshwariP13)
-- LinkedIn: [Dnyaneshwari Pawale](https://www.linkedin.com/in/dnyaneshwari-pawale2498/)
-
----
-
-## 📜 License
-
-This project is intended primarily for educational and portfolio purposes. Add a `LICENSE` file to the repository to make the terms explicit.
-
----
-
-<p align="center">
-<b>Natural Language → Intelligent Agent → Data Tools → Safe Execution → Actionable Answer</b>
-<br/><br/>
-⭐ If you found this project interesting, consider starring the repository!
-</p>
